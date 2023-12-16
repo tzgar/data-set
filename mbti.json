@@ -1,0 +1,343 @@
+{
+    "infp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1c3b619fe50efdfb48_INFP-p-500.png",
+        "color": "pink",
+        "name": "INFP",
+        "class": "Druid",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Spirituality",
+            "a2": "Power Up Through Introspection",
+            "b1": "Ritual",
+            "b2": "Manipulation of World",
+            "c1": "Defence",
+            "c2": "Mystical Connection to the Land",
+            "d1": "Weakness",
+            "d2": "Isolation from Reality"
+        }
+    },
+    "intp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1d4a0de66a332cc53e_INTP-p-500.png",
+        "color": "blue",
+        "name": "INTP",
+        "class": "Engineer",
+        "versatility": 75,
+        "dexterity": 25,
+        "strategy": 99,
+        "wisdom": 99,
+        "charm": 25,
+        "skill": {
+            "a1": "Logic",
+            "a2": "Problem Solving",
+            "b1": "Technology",
+            "b2": "Manipulation of Matter",
+            "c1": "Defense",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Social Inefficiency"
+        }
+    },
+    "infj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1c225b61b81b511776_INFJ-p-500.png",
+        "color": "purple",
+        "name": "INFJ",
+        "class": "Priest",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Empathy",
+            "a2": "Healing",
+            "b1": "Ritual",
+            "b2": "Manipulation of People",
+            "c1": "Defense",
+            "c2": "Connection to the Divine",
+            "d1": "Weakness",
+            "d2": "Perfectionism"
+        }
+    },
+
+    "intj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1c7e77798c55ff0d9d_INTJ-p-500.png",
+        "color": "lightblue",
+        "name": "INTJ",
+        "class": "Mastermind",
+        "versatility": 75,
+        "dexterity": 25,
+        "strategy": 99,
+        "wisdom": 99,
+        "charm": 25,
+        "skill": {
+            "a1": "Intelligence",
+            "a2": "Planning",
+            "b1": "Magic",
+            "b2": "Manipulation of Mind",
+            "c1": "Attack",
+            "c2": "Knowledge of the Universe",
+            "d1": "Weakness",
+            "d2": "Insensitivity"
+        }
+    },
+    "entj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1b192f7a51ad9b62f9_ENTJ-p-500.png",
+        "color": "purple",
+        "name": "ENTJ",
+        "class": "Commander",
+        "versatility": 75,
+        "dexterity": 50,
+        "strategy": 99,
+        "wisdom": 75,
+        "charm": 50,
+        "skill": {
+            "a1": "Leadership",
+            "a2": "Motivation",
+            "b1": "Strategy",
+            "b2": "Manipulation of People",
+            "c1": "Attack",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Inconsideration"
+        }
+    },
+    "entp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1b6beddb56d4430f50_ENTP-p-500.png",
+        "color": "purple",
+        "name": "ENTP",
+        "class": "Debater",
+        "versatility": 75,
+        "dexterity": 50,
+        "strategy": 99,
+        "wisdom": 75,
+        "charm": 50,
+        "skill": {
+            "a1": "Creativity",
+            "a2": "Problem Solving",
+            "b1": "Technology",
+            "b2": "Manipulation of Ideas",
+            "c1": "Defense",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Impulsiveness"
+        }
+    },
+
+    "isfj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1a443f47cb05faa60e_ISFJ-p-500.png",
+        "color": "blue",
+        "name": "ISFJ",
+        "class": "Protector",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Compassion",
+            "a2": "Healing",
+            "b1": "Ritual",
+            "b2": "Manipulation of People",
+            "c1": "Defense",
+            "c2": "Connection to the Earth",
+            "d1": "Weakness",
+            "d2": "Self-Sacrifice"
+        }
+    },
+    "esfj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1c106fa4f36f735c46_ESFJ-p-800.png",
+        "color": "blue",
+        "name": "ESFJ",
+        "class": "Consul",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Empathy",
+            "a2": "Socialization",
+            "b1": "Ritual",
+            "b2": "Manipulation of People",
+            "c1": "Defense",
+            "c2": "Connection to the Community",
+            "d1": "Weakness",
+            "d2": "People-Pleasing"
+        }
+    },
+    "isfp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1b2d6d25df679827d7_ISFP-p-500.png",
+        "color": "yellow",
+        "name": "ISFP",
+        "class": "Artist",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Creativity",
+            "a2": "Self-Expression",
+            "b1": "Ritual",
+            "b2": "Manipulation of Emotion",
+            "c1": "Defense",
+            "c2": "Connection to Nature",
+            "d1": "Weakness",
+            "d2": "Perfectionism"
+        }
+    },
+    "esfp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1c443f47cb05faa99a_ESFP-p-500.png",
+        "color": "yellow",
+        "name": "ESFP",
+        "class": "Entertainer",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Performance",
+            "a2": "Socialization",
+            "b1": "Ritual",
+            "b2": "Manipulation of Others",
+            "c1": "Defense",
+            "c2": "Connection to the Present Moment",
+            "d1": "Weakness",
+            "d2": "Fear of Commitment"
+        }
+    },
+
+    "istj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1b418a540ade3f943d_ISTJ-p-500.png",
+        "color": "blue",
+        "name": "ISTJ",
+        "class": "Logistician",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 25,
+        "skill": {
+            "a1": "Logic",
+            "a2": "Organization",
+            "b1": "Technology",
+            "b2": "Manipulation of Matter",
+            "c1": "Defense",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Stubbornness"
+        }
+    },
+    "estj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1d8fe384c6dc07f8c4_ESTJ-p-500.png",
+        "color": "blue",
+        "name": "ESTJ",
+        "class": "Executive",
+        "versatility": 50,
+        "dexterity": 25,
+        "strategy": 75,
+        "wisdom": 99,
+        "charm": 50,
+        "skill": {
+            "a1": "Leadership",
+            "a2": "Execution",
+            "b1": "Technology",
+            "b2": "Manipulation of Others",
+            "c1": "Defense",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Dominance"
+        }
+    },
+    "istp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1be1ae7e98fc026a41_ISTP-p-800.png",
+        "color": "yellow",
+        "name": "ISTP",
+        "class": "Virtuoso",
+        "versatility": 75,
+        "dexterity": 50,
+        "strategy": 99,
+        "wisdom": 75,
+        "charm": 25,
+        "skill": {
+            "a1": "Problem Solving",
+            "a2": "Creativity",
+            "b1": "Technology",
+            "b2": "Manipulation of Matter",
+            "c1": "Defense",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Recklessness"
+        }
+    },
+    "estp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1c192f7a51ad9b64c2_ESTP-p-500.png",
+        "color": "yellow",
+        "name": "ESTP",
+        "class": "Entrepreneur",
+        "versatility": 75,
+        "dexterity": 50,
+        "strategy": 99,
+        "wisdom": 75,
+        "charm": 50,
+        "skill": {
+            "a1": "Action",
+            "a2": "Adaptability",
+            "b1": "Technology",
+            "b2": "Manipulation of Others",
+            "c1": "Defense",
+            "c2": "Understanding of the World",
+            "d1": "Weakness",
+            "d2": "Impulsiveness"
+        }
+    },
+
+    "enfp": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1a6beddb56d4430e67_ENFP-p-500.png",
+        "color": "green",
+        "name": "ENFP",
+        "class": "Campaigner",
+        "versatility": 75,
+        "dexterity": 50,
+        "strategy": 99,
+        "wisdom": 75,
+        "charm": 50,
+        "skill": {
+            "a1": "Creativity",
+            "a2": "Problem Solving",
+            "b1": "Communication",
+            "b2": "Manipulation of Ideas",
+            "c1": "Inspiration",
+            "c2": "Understanding of Others",
+            "d1": "Weakness",
+            "d2": "Disorganization"
+        }
+    },
+
+    "enfj": {
+        "img": "https://uploads-ssl.webflow.com/641271c355d47587e5061016/64ba0c1be3fe0c7e427e5754_ENFJ-p-500.png",
+        "color": "green",
+        "name": "ENFJ",
+        "class": "Teacher",
+        "versatility": 75,
+        "dexterity": 50,
+        "strategy": 99,
+        "wisdom": 99,
+        "charm": 75,
+        "skill": {
+            "a1": "Empathy",
+            "a2": "Leadership",
+            "b1": "Inspiration",
+            "b2": "Manipulation of People",
+            "c1": "Defense",
+            "c2": "Connection to Others",
+            "d1": "Weakness",
+            "d2": "Overextending"
+        }
+    }
+}
